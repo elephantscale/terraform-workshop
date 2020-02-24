@@ -43,6 +43,46 @@
     - number of features it delivered per month +100%
     - reduce defects by 50%
     - reduce lead times by 60%
-    
-    
-    
+* HP’s LaserJet Firmware
+    - time its developers spent on developing new features went from 5% to 40%
+    - overall development costs were reduced by 40%
+* Four core values in the DevOps movement   
+    - culture, automation, measurement, and sharing (CAMS) 
+---
+
+## What Is Infrastructure as Code?
+* There are five broad categories of IAC tools:
+
+    - Ad hoc scripts
+    - Configuration management tools
+    - Server templating tools
+    - Orchestration tools
+    - Provisioning tools
+
+--- 
+
+## Ad Hoc Scripts
+
+![](../artwork/ad-hoc-script.png)
+
+---
+
+## Configuration Management Tools
+
+* Chef, Puppet, Ansible, and SaltStack
+* Example of Ansible script
+![](../artwork/ansible.png)
+
+---
+
+## Server Templating Tools
+*  Docker, Packer, and Vagrant.
+![](../artwork/packer-script.png)
+
+---
+
+
+## Images and Containers
+![](../artwork/images-containers.png)
+
+---
